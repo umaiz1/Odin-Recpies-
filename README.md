@@ -1,1 +1,1 @@
-# Odin-Recpies-
+# This is the Project Of making a webpage in which recpies are listed and details about those recipies that how to create them and which ingredients are essential for making those recpies
